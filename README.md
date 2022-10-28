@@ -12,7 +12,7 @@
 
 
 # Como Instalar:
-  Não existe necessidade para instalação. Apenas copiar o endereço digital a seguir(https://lampada-javascript.netlify.app/) e colar na barra de endereços de seu navegador padrão.
+  Não existe necessidade para instalação. Apenas copiar o endereço digital a seguir(https://menuhamb.netlify.app/) e colar na barra de endereços de seu navegador padrão.
 
 # Como utilizar:
   Clicar no menu em forma de hamburguer, onde abrirá os itens do menu.
